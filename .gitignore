@@ -21,3 +21,19 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# Pass
+****pass****
+****secrect****
+****key****
+****.pem****
+****.env****
+****token****
+test-*
+**.test
+****config.yaml****
+****prepared*****
+****-old
+****-hidden
+tmp-*
+****kubeconfig****
